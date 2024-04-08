@@ -1,3 +1,4 @@
+print"Dzīvo labi"
 class ProjektuMerki:
     def __init__(self):
         self.merki = [
